@@ -1,7 +1,7 @@
 {
     "name": "minions-outreach-workspace",
     "private": true,
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Email templates, drip sequences, personalization rules, and send schedules",
     "type": "module",
     "license": "MIT",
