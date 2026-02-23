@@ -1,6 +1,12 @@
 ---
 name: minions-outreach
-description: Email templates, drip sequences, personalization rules, and send schedules
+id: OC-0141
+version: 1.0.0
+description: "Email templates, drip sequences, personalization rules, and send schedules"
+category: ai
+subcategory: general
+tags: ["minion", "ai", "general"]
+comments:
 ---
 
 # minions-outreach — Agent Skills
