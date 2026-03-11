@@ -1,0 +1,8 @@
+name: "@minions-outreach/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-outreach-workspace
+description: "CLI for minions-outreach — Email templates, drip sequences, personalization rules, and send schedules"
+priority: high
+deploy_url: null
+tags: null
